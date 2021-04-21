@@ -1,0 +1,26 @@
+{
+  "name": "typescript-brush",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chamarasanjeewa/typescript-brush.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chamarasanjeewa/typescript-brush/issues"
+  },
+  "homepage": "https://github.com/chamarasanjeewa/typescript-brush#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "lite-server": "^2.6.1",
+    "typescript": "^4.2.4"
+  }
+}
